@@ -34,6 +34,8 @@ Apollo
 
 - One-sentence: A multi-modal music player for both curated and average music enjoyers.
 
+- Niubi: good
+
 - Longer version: We will develop a music player with support for streaming music such that the user can listen to their favorite music everywhere with their phones. Additionally, we have social modes and pro modes to allow users to edit their music for their own practice, as well as discuss their favorite music with people alike around the globe with our platform.
 
 ## User Stories
